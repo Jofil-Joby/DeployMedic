@@ -1,0 +1,4 @@
+﻿spec_version: "0.1.0"
+name: deploy-medic
+version: "0.1.0"
+description: A portable AI agent that analyzes deployment configuration and produces an explainable improvement plan.
